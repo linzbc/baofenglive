@@ -24,17 +24,17 @@
 
 華視,http://50.7.61.147:30080/Entry/cts
 
-大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛,mitv://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
 
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 
-華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+華藏衛星電視台,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+原住民電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
-客家新聞台,mitv://ns2.hellotvvod.com:9906/bcf16a66476d4c88a5ea6b7d40a56e7c
+客家電視台,mitv://ns2.hellotvvod.com:9906/bcf16a66476d4c88a5ea6b7d40a56e7c
 
 國家地理頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 
@@ -102,7 +102,7 @@ MTV綜合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 
 東森新聞台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 
-中天新聞台,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
 
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 
@@ -126,7 +126,7 @@ TVBS,http://50.7.61.148:30080/Entry/tvbs
 
 緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 
-龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+龍祥電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 
 HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
 
@@ -180,11 +180,11 @@ CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
 
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 
-Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
+ANIMAX,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 
 MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
 
-靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
+靖洋卡通台Nice Bingo,mitv://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
 
 Cbeebies,mitv://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
 
@@ -222,7 +222,7 @@ Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 
 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
 
- Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
+Z頻道,,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 
@@ -230,21 +230,15 @@ Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 
 華視新聞台,http://43.128.9.168/jjtv.php?id=41
 
-博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-
-大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
 
 公視台語台,mitv://ns2.hellotvvod.com:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9
 
-好消息,mitv://ns2.hellotvvod.com:9906/7df332eeb26546bf94a972d4c2d1ad4e
-
 探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0A
 
 公視3台,mitv://ns2.hellotvvod.com:9906/6ba6fe3a051e4113b82eb6d32fbb7114
-
-大愛2台,mitv://ns2.hellotvvod.com:9906/4523b0956bb34141bfb61460ea9494ed
 
 愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
 
@@ -317,8 +311,6 @@ KLT-靖天國際台,P2p://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da
 HGTV居家樂活頻道,P2p://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
 
 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-
-采昌影剧,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
 
 Discovery科學,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
 
@@ -546,7 +538,7 @@ J Sports 3,mitv://ns2.hellotvvod.com:9906/eacdea4d8fdc4070ac0b94f4c57d8e30
 
 J Sports 4,mitv://ns2.hellotvvod.com:9906/7bd2b99f5b874e028edb6e7e9915bc33
 
-日テレG+ ,mitv://ns2.hellotvvod.com:9906/5fd04bc26fb540efa6e09ffcc60bdb4c
+日テレG+,mitv://ns2.hellotvvod.com:9906/5fd04bc26fb540efa6e09ffcc60bdb4c
 
 ゴルフネットワーク,mitv://ns2.hellotvvod.com:9906/59ae9e5e37db46318749040cad11a5c5
 
@@ -563,6 +555,98 @@ Music Japan TV,mitv://ns2.hellotvvod.com:9906/16a8ff808b3649109d0f21a269682111
 日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/0c2f40999c00436ab5e823a25e3d5c13
 
 Cartoon Network,mitv://ns2.hellotvvod.com:9906/5419e8cfbb6a496aade3406e257768a7
+
+WAKU WAKU JAPAN,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=0472b3463696460db9b3364a400f67f9
+
+女性チャンネル?LaLa TV,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=25b788861ee44c898a7242af2a5df45a
+
+ムービープラス,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=ca8a8ec2a40f428d93f97dbb6e00de71
+
+卫星剧场,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=6eefa50c708d48e9a757fcc4420b95c6
+
+ＧＡOＲＡ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=620047bffde9486a930845c51af32f5c
+
+ザ?シネマ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=2938eecaa0c9478b8175e87231ab3831
+
+スカイ?A sports＋,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=508b8c33fb73429d9698496568c69c3a
+
+旅チャンネル,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=7bb35b5fe2254776a67ced46cb05377c
+
+ＷＯＷＯＷシネマ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=0ea5b4bd877c4c7ea899469731807233
+
+ＷＯＷＯＷライブ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=bf66dc12b37248ecac0e6b6289141ef8
+
+ＷＯＷＯＷプライム,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=dad011c5b1f7433e994bd066f741b41b
+
+テレ朝チャンネル２,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=fa5b7ee083114629bd34b58cadab910d
+
+テレ朝チャンネル１,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=cf45a0dbba25437d84e3737d87968e8d
+
+ミュージック?エア,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=d015ab2034e24f75add4e90662f754a5
+
+ＴＢＳチャンネル１,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=48ce3b674809450bb22147533bc137ca
+
+银河,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=13b94b9b50264da78d51e0a187d26329
+
+フジテレビＮＥＸＴ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=c6902e72876e43fd912ac6313301db43
+
+フジテレビＯＮＥ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=89d05590e53448b697ca6a7cb5f49cd1
+
+フジテレビＴＷＯ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=2768e0e2d1e04c94b7f8fc2506fcd365
+
+J SPORTS 1,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=5289c7c6f92d4d63a333d4694b3c4119
+
+J SPORTS 2,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=c027743fc3834a6a9e5d9531e9ec64a0
+
+J SPORTS 3,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=793197e768654ab88277754567e2cbe4
+
+J SPORTS 4,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=198d3ef2aa81456bbf4b96251ca2d42a
+
+カートゥーン ネットワーク,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=0f4fde26232d4c8a95c4c78ffc49f37c
+
+铁道チャンネル,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=90bf331dff7f4f99aa64e5edc1c9fdfc
+
+NEWS24,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=7f2da64221ff43b8b80c17b69a3761e1
+
+FIGHTING TV サムライ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=c368654dba9f447899264fabf88a376f
+
+アニマルプラネット   动物星球,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=dd404c2f56ff4af488f89a6c2cbf35a2
+
+Disney XD Japan,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=4331c685aeab4270b37a09052b22c139
+
+スターチャンネル１,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=7b5d48b0ff3b42f39a7234e82e505079
+
+スターチャンネル２,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=8385e1124cd34dd4a743bcc5c49d4067
+
+スターチャンネル３,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=48a04b8ff12d40f18f7153ecfb4f9b60
+
+スーパー！ドラマＴＶ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=624d682be2684d5eaa04241250c281c4
+
+MONDO TV,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=25771a99934f4f3c802e76871e994c96
+
+ＢＢＣワールドニュース,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=90511e935fc54411a2717a6458c2515e
+
+CNN/US,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=177d978f547948c3ab2cc300ea0ab77d
+
+MTV,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=4df08b14e36c48febcd15f5bc7991eb0
+
+MUSIC ON! TV,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=49dc885517aa436b89471dd0bebfd06e
+
+ヒストリーチャンネル?,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=9197b49a23d848c2b3244d4d5b50f275
+
+ＡＸＮ ＨＤ 海外ドラマ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=bcbcd750315a4f24b4b074642326dbc3
+
+钓りビジョン,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=75757581d6964f7aac23a6c2ea7e9cf2
+
+AXNミステリー,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=927dfd6bedc241c18421cdd708448988
+
+ ナショナル ジオグラフィック チャンネル,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=4e979d3620a7431496f7e471320625d4
+
+KBS World,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=729d739391ea4585b5433f51bf84d607
+
+FOX,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=9a9ea2c6013b4ef1a47dc8a1531a807b
+
+东映チャンネル,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=a4075f9cd1c84e7e856e3a8ddf1f77f7
 
 韓國,#genre#
 
@@ -1843,10 +1927,6 @@ LookSport3(404p),https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u
 LookSportPlus(404p),https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 Profit.ro(404p),https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-
-未經允許,#genre#
-
-看到爽,https://www.ast.tv/stream/1/ultra.m3u8
 
 午夜劇場[密码:1888],#genre#
 

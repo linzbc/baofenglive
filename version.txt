@@ -1,4 +1,2 @@
-55805#20220916#http:\/\/XXXX\/app\/app\/V+.apk,           V+ pro      
-999#20220403#http:\/\/XXXX\/app\/app\/VIP影院.apk,           vip影院      
-10205#20211227#http:\/\/XXXX\/pv\/HEY影視_20211227.apk,    HEY影視
-510#20220317#http:\/\/XXXX\/pv\/星光直播_20220317.apk,                    星光電視
+55805#20221016#http:\/\/XXXX\/app\/app\/V+.apk,           V+ pro      
+999#20220523#http:\/\/XXXX\/app\/app\/VIP影院.apk,           vip影院      

@@ -2,3 +2,4 @@
 999#20221212#http:\/\/154.3.34.203\/pv\/app\/vip.apk,
 4#20221212#http:\/\/154.3.34.203\/pv\/app\/SUPERTV.apk,
 10205#20221212#http:\/\/154.3.34.203\/pv\/app\/v+pro.apk,
+510#20221212#http:\/\/iptv.brink.ga\/Pvod\/20221212.apk,

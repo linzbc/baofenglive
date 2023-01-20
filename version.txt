@@ -1,4 +1,1 @@
-722#20230000#http:\/\/iptv.brink.ga\/pv2\/Pvod\/弘光紳士.apk, //紳士
-510#20230000#http:\/\/iptv.brink.ga\/pv2\/Pvod\/弘光直播.apk, //直播
-10201#20230000#http:\/\/iptv.brink.ga\/pv2\/Pvod\/弘光電視2.apk, //電視
-10205#20230000#http:\/\/iptv.brink.ga\/pv2\/Pvod\/3.apk, //點播
+
